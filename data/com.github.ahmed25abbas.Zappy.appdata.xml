@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2020 Your Name <ahmed25abbas@gmail.com> -->
+<component type="desktop">
+  <id>com.github.ahmed25abbas.Zappy</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Zappy</name>
+  <summary>Useless so far</summary>
+  <description>
+    <p>This is my first app i am testing how app making works on this thing sorry to disappoint you lolz.</p>
+  </description>
+  <custom>
+     <value key="x-appcenter-color-primary">#603461</value>
+     <value key="x-appcenter-color-primary-text">rgb(125, 0, 185)</value>
+     <value key="x-appcenter-suggested-price">0</value>
+  </custom>
+</component>
